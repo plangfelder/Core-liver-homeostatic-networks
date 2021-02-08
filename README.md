@@ -29,19 +29,22 @@ analysis steps should be performed.
 6. `040-Preprocessing-Suppli2019-HumanNAFLD-GSE126848`: Preprocessing of the human NAFLD data.
 7. `050-IndividualAnalysis-Suppli2019-HumanNAFLD-GSE126848`: Individual gene DE analysis of the human NAFLD data.
 8. `060-NetworkAnalysis-Suppli2019-HumanNAFLD-GSE126848` and `059-StabilityAnalysis-Suppli2019-HumanNAFLD-GSE126848`: as
-   with the mouse network analysis, the first part of the network analysis shoudl be carried out first to set up the
+   with the mouse network analysis, the first part of the network analysis should be carried out first to set up the
    network stability analysis whose results are used in the second part of the main network analysis script.
 9. `070-ModulePreservation-MouseAndHuman`: Network module preservation analysis between mouse and human NAFLD data.
-10. `110-Preprocessing-TCGA`: Preprocessing of TCGA data.
+10. `110-Preprocessing-TCGA`: Preprocessing of TCGA data. Note that the first reformatting step requires the original TCGA
+    files that are too large for github; either start from the second step (after reformatting) or contact us for the
+    original TCGA files.
 11. `120-IndividualAnalysis-TCGA`: Individual gene DE analysis of TCGA data using limma-voom.
 12. `120-IndividualAnalysis-TCGA-V2-DESeq2`: Individual gene DE analysis of TCGA data using DESeq2.
 13. `120-IndividualAnalysis-TCGA-CompareLimmaAndDESeq2`: A short script comparing limma-voom and DESeq2 results from TCGA.
-14. `130-NetworkAnalysis-TCGAPhase` and `129-StabilityAnalysis-TCGA`: The first part of the network analysis shoudl
+14. `130-NetworkAnalysis-TCGAPhase` and `129-StabilityAnalysis-TCGA`: The first part of the network analysis should
     be carried out first to set up the network stability analysis whose results are used in the second part of the main 
     network analysis script.
 15. `140-ModulePreservation-TCGA`: Module preservation calculations between TCGA and the mouse and human NAFLD data.
-16. `200-MODifieR`: Network analysis using MODA, ARACNE and MRNet and comparison with WGCNA.
-17. `210-EnrichmentInPPINetworks`: Enrichment analysis of WGCNA modules in PPI networks.
+16. `150-TCGA-eQTLAnalysis`: eQTL analysis of TCGA data and modules.
+17. `200-MODifieR`: Network analysis using MODA, ARACNE and MRNet and comparison with WGCNA.
+18. `210-EnrichmentInPPINetworks`: Enrichment analysis of WGCNA modules in PPI networks.
 
 Folder `Data` contains the raw and preprocessed data used in this study as well as annotation data needed for the
 analysis. Please note that not all annotation files used by the analysis scripts are included here. For licensing reasons,
