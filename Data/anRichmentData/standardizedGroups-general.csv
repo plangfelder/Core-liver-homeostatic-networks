@@ -1,0 +1,92 @@
+Name,AlternateNames,Description,Source,Parents
+High-throughput association analysis,Differential expression|Differential abundance|DE,"Genes whose markers (mRNA, protein products, methylation etc.) are associated with a specific condition in a high-throughput study",Various,
+WGCNA,,Modules from WGCNA analyses,Various,Computational sets
+mRNA WGCNA,,Modules from WGCNA analyses of mRNA expression data,Various,WGCNA
+Methylation WGCNA,,Modules from WGCNA analyses of DNA methylation data,Various,WGCNA
+Protein WGCNA,,Modules from WGCNA analyses of protein profiling data,Various,WGCNA
+Cell type markers,,Genes marking specific cell types,Various,Cell type marker enriched sets
+Cell type marker enriched sets,,Gene sets enriched with cell type markers,Various,
+Spatial markers,,"Genes marking specific tissues, brain regions and other spatially separated features",Various,
+Computational sets,,Gene sets arising from computational analysis or prediction,Various,
+Gene families,,Gene sets representing specific gene families,Various,
+Brain region markers,BrainRegionMarkers,Genes marking specific brain regions,Various,Spatial markers|Brain|Brain region marker enriched sets
+Brain region marker enriched sets,,Gene sets enriched with brain region markers,Various,
+Physical interactions,,Genes whose products are known or predicted to interact,Various,
+Protein-protein interactions,PPI,Genes whose proteins are known or predicted to interact,Various,Physical interactions
+Transcription factor targets,TF targets,Experimentally or computationally determined targets of specific transcription factors,Various,Physical interactions
+Central nervous system,CNS,Central nervous system-related gene sets,Various,
+Brain,BrainLists,Brain-related gene sets,Various,Central nervous system
+Blood,,Blood-related gene sets,Various,
+Striatum,Corpus Striatum|Caudate nucleus,Striatum- and Caudate nucleus-related gene sets,Various,Brain
+Cortex,Cerebral cortex,Cortex-related gene sets,Various,Brain
+Hippocampus,HIP,Hippocampus-related gene sets,Various,Brain
+Cerebellum,CB,Cerebellum--related gene sets,Various,Brain
+Hypothalamus,HY,Hypothalamus--related gene sets,Various,Brain
+Medial ganglionic eminence,MGE,Medial ganglionic eminence-related gene sets,Various,Brain
+Nucleus accumbens,NAc|NAcc,Nucleus accumbens-related gene sets,Various,Striatum
+Thalamus,,Thalamus-related gene sets,Various,Brain
+Brainstem,,Brainstem-related gene sets,Various,Brain
+Corpus callosum,,Corpus callosum-related gene sets,Various,Brain
+Cerebrum,,Cerebrum-related gene sets,Various,Brain
+Gastrocnemius,,Gastrocnemius-related gene sets,Various,Muscle
+Liver,,Liver-related gene sets,Various,
+Lung,,Lung-related gene sets,Various,
+Kidney,,Kidney-related gene sets,Various,
+Retina,,Retina-related gene sets,Various,
+Pancreas,,Pancreas-related gene sets,Various,
+Adipose,,Adipose tissue-related gene sets,Various,
+Skin,,Skin-related gene sets,Various,
+Heart,,Heart-related gene sets,Various,
+Muscle,Skeletal muscle,Muscle-related gene sets,Various,
+Adrenal gland,,Adrenal gland-related gene sets,Various,
+Aorta,,Aorta-related gene sets,Various,
+Brown adipose,,Brown adipose tissue-related gene sets,Various,Adipose
+White adipose,,White adipose tissue-related gene sets,Various,Adipose
+Neuron,,Neuron--related gene sets,Various,Brain
+Astrocyte,Astroglia,Astrocyte--related gene sets,Various,Brain
+Oligodendrocyte,,Oligodendrocyte--related gene sets,Various,Brain
+Microglia,,Microglia--related gene sets,Various,Brain immune cells
+Microglia markers,BrainLists.MicroglialMarkers,Microglia marker genes,Various,Microglia|Cell type markers
+Bergman glia,,Bergman glia-related gene sets,Various,Brain
+Choroid plexus,,Choroid plexus-related gene sets,Various,Brain
+Endothelial cell,,Endothelial cell-related gene sets,Various,
+Ependymal cell,,Ependymal cell-related gene sets,Various,
+Spinal cord,,Spinal cord-related gene sets,Various,Central nervous system
+Macrophage,,Macrophage-related gene sets,Various,
+Mural cell,Pericyte,Mural cell-related gene sets,Various,
+Oligodendrocyte precursor cell,OPC|Polydendrocyte,Oligodendrocyte precursor cell-related gene sets,Various,Oligodendrocyte
+Cerebrospinal fluid,CSF|Cerebro-spinal fluid,Cerebrospinal fluid-related gene sets,Various,Central nervous system
+Brain immune cells,,Gene sets related to brain immune cells,Various,Brain
+Fibroblasts,Fibroblast,Gene sets related to fibroblasts,Various,
+Effect of Htt CAG length expansion,,Gene sets affected by Htt CAG length expansion,Various,Huntington's disease
+Differential mRNA expression induced by Htt CAG length expansion,Differential expression induced by Htt CAG length expansion,Genes whose mRNA is differentially expressed for Htt CAG length expansion,Various,mRNA differential expression|Effect of Htt CAG length expansion
+Differential protein expression induced by Htt CAG length expansion,,Genes whose proteins are differentially expressed for Htt CAG length expansion,Various,Effect of Htt CAG length expansion|Protein differential expression
+Medium spiny neuron,MSN,Medium spiny neuron-related gene sets,Various,Neuron
+JA Miller,JAM,Gene sets compiled by Jeremy A. Miller,Various,
+Palazzolo-Wang,PWLists|PW Lists,Gene sets compiled by Mike Palazzolo and Jim Wang,Various,
+Chip-X enrichment analysis (ChEA),ChEA,"Genes bound by specific transcription factors based on Chip-X experiments, determined by ChEA","Lachmann A, Xu H, Krishnan J, Berger SI, Mazloom AR, et al (2010) ChEA: transcription factor regulation inferred from integrating genome-wide ChIP-X experiments.  Bioinformatics. 26(19):2438-44. ",Transcription factor targets
+Association with age,,Genes associated with age,Various,Aging
+DNA methylation profiling,,Gene sets derived from DNA methylation profiling,Various,
+mRNA expression profiling,,Gene sets derived from mRNA expression profiling,Various,
+mRNA differential expression,,Genes whose mRNA changes with experimental condition,Various,mRNA expression profiling|High-throughput association analysis
+Protein expression profiling,,Gene sets derived from protein expression profiling,Various,
+Protein differential expression,,Genes whose protein expression changes with experimental condition,Various,Protein expression profiling|High-throughput association analysis
+mRNA differential expression with age,,Genes whose mRNA expression changes with age,Various,Association with age|mRNA differential expression
+Aging,,Aging-related gene sets,Various,
+mRNA up-regulated with age,,Genes whose mRNA expression increases with age,Various,mRNA differential expression with age
+mRNA down-regulated with age,,Genes whose mRNA expression decreases with age,Various,mRNA differential expression with age
+Single cell RNA-seq,,Gene sets from single cell RNA-seq,Various,mRNA expression profiling
+Dietary restriction,,Gene sets related to dietary restriction,Various,
+Association with dietary restriction,,Genes associated with dietary restriction,Various,Dietary restriction|mRNA expression profiling
+mRNA differential expression with dietary restriction,,Genes whose mRNA expression changes with dietary restriction,Various,Association with dietary restriction
+mRNA up-regulated with dietary restriction,,Genes whose mRNA expression increases with dietary restriction,Various,mRNA differential expression with dietary restriction
+mRNA down-regulated with dietary restriction,,Genes whose mRNA expression decreases with dietary restriction,Various,mRNA differential expression with dietary restriction
+Sets contributed by X. William Yang or Yang lab,X. William Yang,Sets contributed by X. William Yang or members of Yang lab at UCLA,Various,
+GWAS significant loci,,Gene sets representing significantly associated loci from GWAS,Various,High-throughput association analysis
+Circadian clock,,Genes that are part of the circadian clock machinery or their interactors,Various,Circadian oscillations
+Alzheimer's disease,AD,Gene sets from studies of Alzheimer's disease patients or models,Various,
+ChIP-seq,,Gene sets derived from ChIP-seq experiments,Various,Transcription factor targets
+Huntington's disease,HD|Huntington's disease,Gene sets from studies of Huntington's disease patients or models,Various,
+Circadian oscillations,Circadian genes,Genes that show circadian oscillation,Various,
+Blood immune cells,Blood immune system,Gene sets related to blood immune cells,Various,
+COVID-19,COVID,Gene sets related to COVID-19,Various,

@@ -1,0 +1,26 @@
+If you want to grab metadata from the excel spreadsheet for now (with the expectation that specifically what will be
+included will change) i’d say we tentatively want to include diagnosis age, BCLC stage, cancer type detailed,
+differentiation, Etiology, and sex 
+
+Wednesday, July 17th
+Grant 3:47 AM
+
+For meta-data, would be good to add these to your suggestions:
+Disease stage
+Liver fibrosis ishak score category
+Tumour size
+Vascular invasion
+Immune Subtype (C1-C6)
+TCGA Subtype (iClusters, C1-C6, and stemness)
+
+Please see attached the excel file with ICGC samples and highlighted meta-data.
+
+
+Her is the explanation for additional meta-data:
+HCC happens mostly in cirrhosis, and also in non-cirrhotic livers. Disease stage has this data and later we can compare it to our mice tumours especially on high sugar diet (HS) which don’t show fibrosis. F0-F4 in disease stage refers to degree of fibrosis based on Ishak scoring (next).
+Ishak score from F0 (non) to F4 (highest in cirrhosis) shows different degree of liver fibrosis
+We can leave no. 3 out if you think it’s not going to show much
+Same for no. 4
+If we could find immune modules related to C1-C6 and impute to Metabolic/NAFLD group will be great.
+Will be great to use the cell paper. I read it again today. If you have any suggestion about TCGA subtypes that I picked please let me know. I picked stemness as one group here is working on cancer stem cells and we might incorporate the results with their models as a different project with functional analysis.
+Excel Spreadsheet 

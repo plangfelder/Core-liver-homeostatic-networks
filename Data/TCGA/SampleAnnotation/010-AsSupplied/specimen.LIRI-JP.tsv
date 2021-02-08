@@ -1,0 +1,742 @@
+icgc_specimen_id	project_code	study_specimen_involved_in	submitted_specimen_id	icgc_donor_id	submitted_donor_id	specimen_type	specimen_type_other	specimen_interval	specimen_donor_treatment_type	specimen_donor_treatment_type_other	specimen_processing	specimen_processing_other	specimen_storage	specimen_storage_other	tumour_confirmed	specimen_biobank	specimen_biobank_id	specimen_available	tumour_histological_type	tumour_grading_system	tumour_grade	tumour_grade_supplemental	tumour_stage_system	tumour_stage	tumour_stage_supplemental	digital_image_of_stained_section	percentage_cellularity	level_of_cellularity
+SP112300	LIRI-JP	PCAWG	RK326_C01	DO50855	RK326	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP192724	LIRI-JP		RK326_L01	DO50855	RK326	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112298	LIRI-JP	PCAWG	RK326_B01	DO50855	RK326	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112304	LIRI-JP	PCAWG	RK337_C01	DO50857	RK337	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP192725	LIRI-JP		RK337_L01	DO50857	RK337	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112302	LIRI-JP	PCAWG	RK337_B01	DO50857	RK337	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112307	LIRI-JP	PCAWG	RK338_B01	DO50859	RK338	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112310	LIRI-JP	PCAWG	RK338_C01	DO50859	RK338	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	2			90	
+SP192727	LIRI-JP		RK338_L01	DO50859	RK338	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192726	LIRI-JP		RK338_C02	DO50859	RK338	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8130/3	Edmondson	III		TNM by LCSGJ	2			85	
+SP112286	LIRI-JP	PCAWG	RK305_B01	DO50850	RK305	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112288	LIRI-JP	PCAWG	RK305_C01	DO50850	RK305	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			95	
+SP192723	LIRI-JP		RK305_L01	DO50850	RK305	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112289	LIRI-JP	PCAWG	RK306_B01	DO50851	RK306	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112290	LIRI-JP	PCAWG	RK306_C01	DO50851	RK306	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP112267	LIRI-JP	PCAWG	RK287_B01	DO50842	RK287	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112268	LIRI-JP	PCAWG	RK287_C01	DO50842	RK287	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	4			90	
+SP112269	LIRI-JP	PCAWG	RK288_C01	DO50842	RK287	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	4			100	
+SP112273	LIRI-JP	PCAWG	RK289_C01	DO50844	RK289	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	4			95	
+SP112274	LIRI-JP	PCAWG	RK290_C01	DO50844	RK289	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	4			100	
+SP112272	LIRI-JP	PCAWG	RK289_B01	DO50844	RK289	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112275	LIRI-JP	PCAWG	RK297_B01	DO50845	RK297	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112276	LIRI-JP	PCAWG	RK297_C01	DO50845	RK297	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			90	
+SP192722	LIRI-JP		RK297_C02	DO50845	RK297	Metastatic tumour - lymph node		30	no treatment	"surgical resection, sorafenib, RT"	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8130/3	Edmondson			TNM by LCSGJ	4			100	
+SP112283	LIRI-JP	PCAWG	RK304_C01	DO50848	RK304	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			90	
+SP112282	LIRI-JP	PCAWG	RK304_B01	DO50848	RK304	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112265	LIRI-JP	PCAWG	RK285_C01	DO50840	RK285	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	2			95	
+SP192721	LIRI-JP		RK285_L01	DO50840	RK285	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112263	LIRI-JP	PCAWG	RK285_B01	DO50840	RK285	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112259	LIRI-JP	PCAWG	RK284_B01	DO50839	RK284	Normal - blood derived		90	other therapy	RFA	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112261	LIRI-JP	PCAWG	RK284_C01	DO50839	RK284	Primary tumour - solid tissue		90	other therapy	RFA	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			95	
+SP112245	LIRI-JP	PCAWG	RK278_C01	DO50831	RK278	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			95	
+SP112244	LIRI-JP	PCAWG	RK278_B01	DO50831	RK278	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192720	LIRI-JP		RK280_L01	DO50832	RK280	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112246	LIRI-JP	PCAWG	RK280_B01	DO50832	RK280	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112248	LIRI-JP	PCAWG	RK280_C01	DO50832	RK280	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			95	
+SP112250	LIRI-JP	PCAWG	RK282_B01	DO50834	RK282	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112252	LIRI-JP	PCAWG	RK282_C01	DO50834	RK282	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			95	
+SP112255	LIRI-JP	PCAWG	RK283_B01	DO50837	RK283	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112257	LIRI-JP	PCAWG	RK283_C01	DO50837	RK283	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			95	
+SP112239	LIRI-JP	PCAWG	RK277_B01	DO50829	RK277	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112241	LIRI-JP	PCAWG	RK277_C01	DO50829	RK277	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			95	
+SP112224	LIRI-JP	PCAWG	RK267_C01	DO50820	RK267	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	3			95	
+SP192717	LIRI-JP		RK267_L01	DO50820	RK267	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112222	LIRI-JP	PCAWG	RK267_B01	DO50820	RK267	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112227	LIRI-JP	PCAWG	RK268_B01	DO50822	RK268	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112228	LIRI-JP	PCAWG	RK268_C01	DO50822	RK268	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			95	
+SP192718	LIRI-JP		RK268_L01	DO50822	RK268	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112234	LIRI-JP	PCAWG	RK270_C01	DO50825	RK270	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			95	
+SP192719	LIRI-JP		RK270_L01	DO50825	RK270	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112232	LIRI-JP	PCAWG	RK270_B01	DO50825	RK270	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112236	LIRI-JP	PCAWG	RK275_B01	DO50827	RK275	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112237	LIRI-JP	PCAWG	RK275_C01	DO50827	RK275	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			95	
+SP112216	LIRI-JP	PCAWG	RK264_B01	DO50817	RK264	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112217	LIRI-JP	PCAWG	RK264_C01	DO50817	RK264	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I-II		TNM by LCSGJ	2			95	
+SP112218	LIRI-JP	PCAWG	RK265_B01	DO50818	RK265	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112219	LIRI-JP	PCAWG	RK265_C01	DO50818	RK265	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			95	
+SP192716	LIRI-JP		RK265_L01	DO50818	RK265	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112220	LIRI-JP	PCAWG	RK266_B01	DO50819	RK266	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112221	LIRI-JP	PCAWG	RK266_C01	DO50819	RK266	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			95	
+SP112203	LIRI-JP	PCAWG	RK259_B01	DO50811	RK259	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112205	LIRI-JP	PCAWG	RK259_C01	DO50811	RK259	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			100	
+SP112207	LIRI-JP	PCAWG	RK260_B01	DO50813	RK260	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112208	LIRI-JP	PCAWG	RK260_C01	DO50813	RK260	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I-II		TNM by LCSGJ	2			100	
+SP192713	LIRI-JP		RK260_L01	DO50813	RK260	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192714	LIRI-JP		RK261_C03	DO50814	RK261	Metastatic tumour - additional metastatic		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8130/3	Edmondson	II		TNM by LCSGJ	4			100	
+SP112209	LIRI-JP	PCAWG	RK261_B01	DO50814	RK261	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112210	LIRI-JP	PCAWG	RK261_C01	DO50814	RK261	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	3			95	
+SP112211	LIRI-JP	PCAWG	RK261_C02	DO50814	RK261	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	3			95	
+SP112212	LIRI-JP	PCAWG	RK262_B01	DO50815	RK262	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112213	LIRI-JP	PCAWG	RK262_C01	DO50815	RK262	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	3			80	
+SP112215	LIRI-JP	PCAWG	RK263_C01	DO50816	RK263	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I-II		TNM by LCSGJ	2			95	
+SP192715	LIRI-JP		RK263_L01	DO50816	RK263	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112214	LIRI-JP	PCAWG	RK263_B01	DO50816	RK263	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112193	LIRI-JP	PCAWG	RK254_B01	DO50806	RK254	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112194	LIRI-JP	PCAWG	RK254_C01	DO50806	RK254	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	4			95	
+SP192706	LIRI-JP		RK254_L01	DO50806	RK254	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112196	LIRI-JP	PCAWG	RK256_C01	DO50807	RK256	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			80	
+SP192709	LIRI-JP		RK256_L01	DO50807	RK256	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192710	LIRI-JP		RK327_C01	DO50807	RK256	Metastatic tumour - additional metastatic		30	no treatment	surgical resection	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8130/3	Edmondson	II		TNM by LCSGJ	3			80	
+SP112195	LIRI-JP	PCAWG	RK256_B01	DO50807	RK256	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112197	LIRI-JP	PCAWG	RK257_B01	DO50808	RK257	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112198	LIRI-JP	PCAWG	RK257_C01	DO50808	RK257	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	2			100	
+SP192711	LIRI-JP		RK257_L01	DO50808	RK257	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112199	LIRI-JP	PCAWG	RK258_B01	DO50809	RK258	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112201	LIRI-JP	PCAWG	RK258_C01	DO50809	RK258	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP192712	LIRI-JP		RK258_L01	DO50809	RK258	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192701	LIRI-JP		RK237_L01	DO50800	RK237	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112181	LIRI-JP	PCAWG	RK237_B01	DO50800	RK237	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112182	LIRI-JP	PCAWG	RK237_C01	DO50800	RK237	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I-II		TNM by LCSGJ	2			80	
+SP112186	LIRI-JP	PCAWG	RK241_C01	DO50802	RK241	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP192702	LIRI-JP		RK241_L01	DO50802	RK241	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112185	LIRI-JP	PCAWG	RK241_B01	DO50802	RK241	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112187	LIRI-JP	PCAWG	RK243_B01	DO50803	RK243	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112188	LIRI-JP	PCAWG	RK243_C01	DO50803	RK243	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			100	
+SP192703	LIRI-JP		RK243_L01	DO50803	RK243	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192704	LIRI-JP		RK244_L01	DO50804	RK244	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112189	LIRI-JP	PCAWG	RK244_B01	DO50804	RK244	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112190	LIRI-JP	PCAWG	RK244_C01	DO50804	RK244	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	2			100	
+SP112192	LIRI-JP	PCAWG	RK245_C01	DO50805	RK245	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	2			95	
+SP192705	LIRI-JP		RK245_L01	DO50805	RK245	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112191	LIRI-JP	PCAWG	RK245_B01	DO50805	RK245	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112176	LIRI-JP	PCAWG	RK235_B01	DO50798	RK235	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112178	LIRI-JP	PCAWG	RK235_C01	DO50798	RK235	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			90	
+SP192699	LIRI-JP		RK235_L01	DO50798	RK235	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112179	LIRI-JP	PCAWG	RK236_B01	DO50799	RK236	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112180	LIRI-JP	PCAWG	RK236_C01	DO50799	RK236	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	2			80	
+SP192700	LIRI-JP		RK236_L01	DO50799	RK236	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112162	LIRI-JP	PCAWG	RK232_B01	DO50791	RK232	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112165	LIRI-JP	PCAWG	RK232_C01	DO50791	RK232	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	1			100	
+SP192697	LIRI-JP		RK232_L01	DO50791	RK232	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112170	LIRI-JP	PCAWG	RK233_C02	DO50793	RK233	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	4			90	
+SP192698	LIRI-JP		RK233_L01	DO50793	RK233	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112166	LIRI-JP	PCAWG	RK233_B01	DO50793	RK233	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112168	LIRI-JP	PCAWG	RK233_C01	DO50793	RK233	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	4			90	
+SP112174	LIRI-JP	PCAWG	RK234_C01	DO50796	RK234	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	IV		TNM by LCSGJ	2			90	
+SP112172	LIRI-JP	PCAWG	RK234_B01	DO50796	RK234	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112154	LIRI-JP	PCAWG	RK229_B01	DO50787	RK229	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112156	LIRI-JP	PCAWG	RK229_C01	DO50787	RK229	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP192695	LIRI-JP		RK229_L01	DO50787	RK229	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112160	LIRI-JP	PCAWG	RK230_C01	DO50789	RK230	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	2			100	
+SP192696	LIRI-JP		RK230_L01	DO50789	RK230	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112157	LIRI-JP	PCAWG	RK230_B01	DO50789	RK230	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112140	LIRI-JP	PCAWG	RK225_B01	DO50780	RK225	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112141	LIRI-JP	PCAWG	RK225_C01	DO50780	RK225	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	4			90	
+SP112147	LIRI-JP	PCAWG	RK227_C01	DO50783	RK227	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			90	
+SP192693	LIRI-JP		RK227_L01	DO50783	RK227	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112145	LIRI-JP	PCAWG	RK227_B01	DO50783	RK227	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112150	LIRI-JP	PCAWG	RK228_B01	DO50785	RK228	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112152	LIRI-JP	PCAWG	RK228_C01	DO50785	RK228	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	IV		TNM by LCSGJ	4			90	
+SP192694	LIRI-JP		RK228_L01	DO50785	RK228	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112133	LIRI-JP	PCAWG	RK223_C01	DO50776	RK223	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			100	
+SP112132	LIRI-JP	PCAWG	RK223_B01	DO50776	RK223	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112136	LIRI-JP	PCAWG	RK224_B01	DO50778	RK224	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112138	LIRI-JP	PCAWG	RK224_C01	DO50778	RK224	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	4			100	
+SP192692	LIRI-JP		RK224_L01	DO50778	RK224	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112124	LIRI-JP	PCAWG	RK221_B01	DO50772	RK221	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112125	LIRI-JP	PCAWG	RK221_C01	DO50772	RK221	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			80	
+SP192691	LIRI-JP		RK222_L01	DO50774	RK222	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112128	LIRI-JP	PCAWG	RK222_B01	DO50774	RK222	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112130	LIRI-JP	PCAWG	RK222_C01	DO50774	RK222	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP99299	LIRI-JP	PCAWG	RK269_B01	DO45287	RK269	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99301	LIRI-JP	PCAWG	RK269_C01	DO45287	RK269	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	1			100	
+SP135392	LIRI-JP	PCAWG	RK269_L01	DO45287	RK269	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99303	LIRI-JP	PCAWG	RK272_B01	DO45289	RK272	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99305	LIRI-JP	PCAWG	RK272_C01	DO45289	RK272	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	3			90	
+SP135394	LIRI-JP	PCAWG	RK272_L01	DO45289	RK272	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP135384	LIRI-JP	PCAWG	RK208_L01	DO45283	RK208	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99291	LIRI-JP	PCAWG	RK208_B01	DO45283	RK208	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99293	LIRI-JP	PCAWG	RK208_C01	DO45283	RK208	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	3			50	
+SP135385	LIRI-JP	PCAWG	RK226_L01	DO45285	RK226	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99295	LIRI-JP	PCAWG	RK226_B01	DO45285	RK226	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99297	LIRI-JP	PCAWG	RK226_C01	DO45285	RK226	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	3			50	
+SP99307	LIRI-JP	PCAWG	RK279_B01	DO45291	RK279	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99309	LIRI-JP	PCAWG	RK279_C01	DO45291	RK279	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	3			95	
+SP99281	LIRI-JP	PCAWG	RK194_B01	DO45279	RK194	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99283	LIRI-JP	PCAWG	RK194_C01	DO45279	RK194	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	3			90	
+SP135370	LIRI-JP	PCAWG	RK194_L01	DO45279	RK194	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99275	LIRI-JP		RK182_C01	DO45275	RK182	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	3			70	
+SP99273	LIRI-JP		RK182_L01	DO45275	RK182	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99277	LIRI-JP	PCAWG	RK184_B01	DO45277	RK184	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99279	LIRI-JP	PCAWG	RK184_C01	DO45277	RK184	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8180/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP135368	LIRI-JP	PCAWG	RK184_L01	DO45277	RK184	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99267	LIRI-JP	PCAWG	RK180_B01	DO45273	RK180	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99269	LIRI-JP	PCAWG	RK180_C01	DO45273	RK180	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			95	
+SP99271	LIRI-JP	PCAWG	RK180_C02	DO45273	RK180	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			95	
+SP99289	LIRI-JP	PCAWG	RK209_C01	DO45281	RK204	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	4			100	
+SP135377	LIRI-JP	PCAWG	RK204_L01	DO45281	RK204	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99287	LIRI-JP	PCAWG	RK204_C02	DO45281	RK204	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	4			85	
+SP99285	LIRI-JP	PCAWG	RK204_B01	DO45281	RK204	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99259	LIRI-JP	PCAWG	RK177_B01	DO45269	RK177	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99261	LIRI-JP	PCAWG	RK177_C01	DO45269	RK177	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	3			80	
+SP192661	LIRI-JP		RK177_L01	DO45269	RK177	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192651	LIRI-JP		RK167_L01	DO45265	RK167	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99251	LIRI-JP	PCAWG	RK167_B01	DO45265	RK167	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99253	LIRI-JP	PCAWG	RK167_C01	DO45265	RK167	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	3			100	
+SP192654	LIRI-JP		RK170_L01	DO45267	RK170	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99255	LIRI-JP	PCAWG	RK170_B01	DO45267	RK170	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99257	LIRI-JP	PCAWG	RK170_C01	DO45267	RK170	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	3			90	
+SP99243	LIRI-JP	PCAWG	RK165_B01	DO45261	RK165	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99245	LIRI-JP	PCAWG	RK165_C01	DO45261	RK165	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			95	
+SP192649	LIRI-JP		RK165_L01	DO45261	RK165	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99247	LIRI-JP	PCAWG	RK166_B01	DO45263	RK166	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99249	LIRI-JP	PCAWG	RK166_C01	DO45263	RK166	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8180/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP135365	LIRI-JP	PCAWG	RK166_L01	DO45263	RK166	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99237	LIRI-JP	PCAWG	RK157_C01	DO45257	RK157	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			80	
+SP192631	LIRI-JP		RK157_L01	DO45257	RK157	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99235	LIRI-JP	PCAWG	RK157_B01	DO45257	RK157	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99239	LIRI-JP	PCAWG	RK159_B01	DO45259	RK159	Normal - blood derived		90	other therapy	TACE+RFA	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99241	LIRI-JP	PCAWG	RK159_C01	DO45259	RK159	Primary tumour - solid tissue		90	other therapy	TACE+RFA	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	3			80	
+SP135361	LIRI-JP	PCAWG	RK159_L01	DO45259	RK159	Normal - solid tissue		90	other therapy	TACE+RFA	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99227	LIRI-JP	PCAWG	RK147_B01	DO45253	RK147	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99229	LIRI-JP	PCAWG	RK147_C01	DO45253	RK147	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP135358	LIRI-JP	PCAWG	RK147_L01	DO45253	RK147	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99231	LIRI-JP	PCAWG	RK148_B01	DO45255	RK148	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99233	LIRI-JP	PCAWG	RK148_C01	DO45255	RK148	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I-III		TNM by LCSGJ	3			100	
+SP99225	LIRI-JP	PCAWG	RK146_C01	DO45251	RK146	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	2			50	
+SP135353	LIRI-JP	PCAWG	RK146_L01	DO45251	RK146	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99223	LIRI-JP	PCAWG	RK146_B01	DO45251	RK146	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP135344	LIRI-JP	PCAWG	RK141_L01	DO45247	RK141	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99215	LIRI-JP	PCAWG	RK141_B01	DO45247	RK141	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99217	LIRI-JP	PCAWG	RK141_C01	DO45247	RK141	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP99221	LIRI-JP	PCAWG	RK142_C01	DO45249	RK142	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	1			70	
+SP135350	LIRI-JP	PCAWG	RK142_L01	DO45249	RK142	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99219	LIRI-JP	PCAWG	RK142_B01	DO45249	RK142	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99207	LIRI-JP	PCAWG	RK137_B01	DO45243	RK137	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99209	LIRI-JP	PCAWG	RK137_C01	DO45243	RK137	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	3			90	
+SP135338	LIRI-JP	PCAWG	RK137_L01	DO45243	RK137	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP135341	LIRI-JP	PCAWG	RK138_L01	DO45245	RK138	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99211	LIRI-JP	PCAWG	RK138_B01	DO45245	RK138	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99213	LIRI-JP	PCAWG	RK138_C01	DO45245	RK138	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	2			50	
+SP99203	LIRI-JP	PCAWG	RK133_B01	DO45241	RK133	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99205	LIRI-JP	PCAWG	RK133_C01	DO45241	RK133	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			100	
+SP135333	LIRI-JP	PCAWG	RK130_L01	DO45239	RK130	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99199	LIRI-JP	PCAWG	RK130_B01	DO45239	RK130	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99201	LIRI-JP	PCAWG	RK130_C01	DO45239	RK130	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			90	
+SP99191	LIRI-JP	PCAWG	RK115_B01	DO45235	RK115	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99193	LIRI-JP	PCAWG	RK115_C01	DO45235	RK115	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			100	
+SP192532	LIRI-JP		RK115_L01	DO45235	RK115	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99195	LIRI-JP	PCAWG	RK126_B01	DO45237	RK126	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99197	LIRI-JP	PCAWG	RK126_C01	DO45237	RK126	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			70	
+SP135329	LIRI-JP	PCAWG	RK126_L01	DO45237	RK126	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP135322	LIRI-JP	PCAWG	RK109_L01	DO45231	RK109	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99183	LIRI-JP	PCAWG	RK109_B01	DO45231	RK109	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99185	LIRI-JP	PCAWG	RK109_C01	DO45231	RK109	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	2			100	
+SP99187	LIRI-JP	PCAWG	RK112_B01	DO45233	RK112	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99189	LIRI-JP	PCAWG	RK112_C01	DO45233	RK112	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8180/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP99179	LIRI-JP	PCAWG	RK108_B01	DO45229	RK108	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99181	LIRI-JP	PCAWG	RK108_C01	DO45229	RK108	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8180/3	Edmondson	II		TNM by LCSGJ	1			90	
+SP99173	LIRI-JP	PCAWG	RK106_C01	DO45225	RK106	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	2			90	
+SP135314	LIRI-JP	PCAWG	RK106_L01	DO45225	RK106	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99171	LIRI-JP	PCAWG	RK106_B01	DO45225	RK106	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99175	LIRI-JP	PCAWG	RK107_B01	DO45227	RK107	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99177	LIRI-JP	PCAWG	RK107_C01	DO45227	RK107	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP135318	LIRI-JP	PCAWG	RK107_L01	DO45227	RK107	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99163	LIRI-JP	PCAWG	RK100_B01	DO45221	RK100	Normal - blood derived		90	other therapy	RFA	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99165	LIRI-JP	PCAWG	RK100_C01	DO45221	RK100	Primary tumour - solid tissue		90	other therapy	RFA	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	4			90	
+SP135306	LIRI-JP	PCAWG	RK100_L01	DO45221	RK100	Normal - solid tissue		90	other therapy	RFA	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99167	LIRI-JP	PCAWG	RK103_B01	DO45223	RK103	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99169	LIRI-JP	PCAWG	RK103_C01	DO45223	RK103	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	4			90	
+SP135309	LIRI-JP	PCAWG	RK103_L01	DO45223	RK103	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99157	LIRI-JP	PCAWG	RK098_C01	DO45217	RK098	Primary tumour - solid tissue		90	other therapy	RFA	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	3			85	
+SP135295	LIRI-JP	PCAWG	RK098_L01	DO45217	RK098	Normal - solid tissue		90	other therapy	RFA	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99155	LIRI-JP	PCAWG	RK098_B01	DO45217	RK098	Normal - blood derived		90	other therapy	RFA	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99159	LIRI-JP	PCAWG	RK099_B01	DO45219	RK099	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99161	LIRI-JP	PCAWG	RK099_C01	DO45219	RK099	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			90	
+SP135300	LIRI-JP	PCAWG	RK099_L01	DO45219	RK099	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99147	LIRI-JP	PCAWG	RK092_B01	DO45213	RK092	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99149	LIRI-JP	PCAWG	RK092_C01	DO45213	RK092	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			100	
+SP135289	LIRI-JP	PCAWG	RK092_L01	DO45213	RK092	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99151	LIRI-JP	PCAWG	RK096_B01	DO45215	RK096	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99153	LIRI-JP	PCAWG	RK096_C01	DO45215	RK096	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			50	
+SP192485	LIRI-JP		RK096_L01	DO45215	RK096	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99143	LIRI-JP	PCAWG	RK091_B01	DO45211	RK091	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99145	LIRI-JP	PCAWG	RK091_C01	DO45211	RK091	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP192471	LIRI-JP		RK091_L01	DO45211	RK091	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99319	LIRI-JP	PCAWG	RK307_L01	DO45297	RK307	Normal - tissue adjacent to primary		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99321	LIRI-JP	PCAWG	RK307_C01	DO45297	RK307	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	4			70	
+SP99325	LIRI-JP	PCAWG	RK308_C01	DO45299	RK308	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	1			80	
+SP99323	LIRI-JP	PCAWG	RK308_L01	DO45299	RK308	Normal - tissue adjacent to primary		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99311	LIRI-JP	PCAWG	RK298_B01	DO45293	RK298	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99313	LIRI-JP	PCAWG	RK298_C01	DO45293	RK298	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	3			100	
+SP99315	LIRI-JP	PCAWG	RK303_B01	DO45295	RK303	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99317	LIRI-JP	PCAWG	RK303_C01	DO45295	RK303	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	2			50	
+SP99135	LIRI-JP	PCAWG	RK086_B01	DO45207	RK086	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99137	LIRI-JP	PCAWG	RK086_C01	DO45207	RK086	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	1			90	
+SP99139	LIRI-JP	PCAWG	RK089_B01	DO45209	RK089	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99141	LIRI-JP	PCAWG	RK089_C01	DO45209	RK089	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	4			70	
+SP192469	LIRI-JP		RK089_L01	DO45209	RK089	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99129	LIRI-JP	PCAWG	RK083_C01	DO45203	RK083	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			90	
+SP135283	LIRI-JP	PCAWG	RK083_L01	DO45203	RK083	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99127	LIRI-JP	PCAWG	RK083_B01	DO45203	RK083	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99131	LIRI-JP	PCAWG	RK084_B01	DO45205	RK084	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99133	LIRI-JP	PCAWG	RK084_C01	DO45205	RK084	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8180/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP99123	LIRI-JP	PCAWG	RK082_B01	DO45201	RK082	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99125	LIRI-JP	PCAWG	RK082_C01	DO45201	RK082	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	1			90	
+SP99059	LIRI-JP	PCAWG	RK056_B01	DO45169	RK056	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99061	LIRI-JP	PCAWG	RK056_C01	DO45169	RK056	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			95	
+SP135253	LIRI-JP	PCAWG	RK056_L01	DO45169	RK056	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99053	LIRI-JP	PCAWG	RK054_C01	DO45165	RK054	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			80	
+SP135249	LIRI-JP	PCAWG	RK054_L01	DO45165	RK054	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99051	LIRI-JP	PCAWG	RK054_B01	DO45165	RK054	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99055	LIRI-JP	PCAWG	RK055_B01	DO45167	RK055	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99057	LIRI-JP	PCAWG	RK055_C01	DO45167	RK055	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	2			100	
+SP135251	LIRI-JP	PCAWG	RK055_L01	DO45167	RK055	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99043	LIRI-JP	PCAWG	RK051_B01	DO45161	RK051	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99045	LIRI-JP	PCAWG	RK051_C01	DO45161	RK051	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			80	
+SP135245	LIRI-JP	PCAWG	RK051_L01	DO45161	RK051	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99047	LIRI-JP	PCAWG	RK052_B01	DO45163	RK052	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99049	LIRI-JP	PCAWG	RK052_C01	DO45163	RK052	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			90	
+SP135247	LIRI-JP	PCAWG	RK052_L01	DO45163	RK052	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99065	LIRI-JP	PCAWG	RK058_C01	DO45171	RK058	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP135256	LIRI-JP	PCAWG	RK058_L01	DO45171	RK058	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99063	LIRI-JP	PCAWG	RK058_B01	DO45171	RK058	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP135243	LIRI-JP	PCAWG	RK050_L01	DO45159	RK050	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99039	LIRI-JP	PCAWG	RK050_B	DO45159	RK050	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99041	LIRI-JP	PCAWG	RK050_C	DO45159	RK050	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			90	
+SP99033	LIRI-JP	PCAWG	RK048_C	DO45155	RK048	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			80	
+SP192397	LIRI-JP		RK048_L01	DO45155	RK048	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99031	LIRI-JP	PCAWG	RK048_B	DO45155	RK048	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99035	LIRI-JP	PCAWG	RK049_B01	DO45157	RK049	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99037	LIRI-JP	PCAWG	RK049_C01	DO45157	RK049	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	2			100	
+SP99025	LIRI-JP	PCAWG	RK046_C02	DO45151	RK046	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP99023	LIRI-JP	PCAWG	RK046_B01	DO45151	RK046	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99021	LIRI-JP	PCAWG	RK046_C01	DO45151	RK046	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP99029	LIRI-JP	PCAWG	RK047_C01	DO45153	RK047	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			80	
+SP192395	LIRI-JP		RK047_L01	DO45153	RK047	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99027	LIRI-JP	PCAWG	RK047_B01	DO45153	RK047	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99015	LIRI-JP	PCAWG	RK042_B	DO45147	RK042	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99013	LIRI-JP	PCAWG	RK042_C	DO45147	RK042	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	2			80	
+SP192387	LIRI-JP		RK192_C01	DO45147	RK042	Metastatic tumour - additional metastatic		30	no treatment	surgical resection	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8130/3	Edmondson	II-III		TNM by LCSGJ	3			90	
+SP99017	LIRI-JP	PCAWG	RK044_B01	DO45149	RK044	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99019	LIRI-JP	PCAWG	RK044_C01	DO45149	RK044	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I-II		TNM by LCSGJ	2			60	
+SP192393	LIRI-JP		RK044_L01	DO45149	RK044	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99005	LIRI-JP	PCAWG	RK037_B01	DO45143	RK037	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99007	LIRI-JP	PCAWG	RK037_C01	DO45143	RK037	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP135237	LIRI-JP	PCAWG	RK037_L01	DO45143	RK037	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99009	LIRI-JP	PCAWG	RK041_B01	DO45145	RK041	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99011	LIRI-JP	PCAWG	RK041_C01	DO45145	RK041	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	3			80	
+SP135241	LIRI-JP	PCAWG	RK041_L01	DO45145	RK041	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99001	LIRI-JP	PCAWG	RK036_C01	DO45141	RK036	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP135235	LIRI-JP	PCAWG	RK036_L01	DO45141	RK036	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98999	LIRI-JP	PCAWG	RK036_B01	DO45141	RK036	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99003	LIRI-JP	PCAWG	RK189_C01	DO45141	RK036	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			90	
+SP98993	LIRI-JP	PCAWG	RK034_B	DO45137	RK034	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98991	LIRI-JP	PCAWG	RK034_C	DO45137	RK034	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	1			100	
+SP135233	LIRI-JP	PCAWG	RK034_L01	DO45137	RK034	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP191956	LIRI-JP		RK035_L01	DO45139	RK035	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP191959	LIRI-JP		RK240_L01	DO45139	RK035	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99265	LIRI-JP		RK179_C01	DO45139	RK035	Primary tumour - solid tissue		90	other therapy	surgical resection	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	3			100	
+SP191958	LIRI-JP		RK179_L01	DO45139	RK035	Normal - solid tissue		90	other therapy	surgical resection	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98995	LIRI-JP	PCAWG	RK035_B01	DO45139	RK035	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112183	LIRI-JP		RK240_B01	DO45139	RK035	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112184	LIRI-JP		RK240_C01	DO45139	RK035	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	2			60	
+SP98997	LIRI-JP	PCAWG	RK035_C01	DO45139	RK035	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	3			100	
+SP99263	LIRI-JP		RK179_B01	DO45139	RK035	Normal - blood derived		90	other therapy	surgical resection	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98985	LIRI-JP	PCAWG	RK032_C01	DO45133	RK032	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP135231	LIRI-JP	PCAWG	RK032_L01	DO45133	RK032	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98983	LIRI-JP	PCAWG	RK032_B01	DO45133	RK032	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98987	LIRI-JP	PCAWG	RK033_B01	DO45135	RK033	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98989	LIRI-JP	PCAWG	RK033_C01	DO45135	RK033	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	1			100	
+SP191939	LIRI-JP		RK033_L01	DO45135	RK033	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP135229	LIRI-JP	PCAWG	RK031_L01	DO45131	RK031	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98979	LIRI-JP	PCAWG	RK031_B01	DO45131	RK031	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98981	LIRI-JP	PCAWG	RK031_C01	DO45131	RK031	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	4			80	
+SP191920	LIRI-JP		RK029_L01	DO45129	RK029	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98977	LIRI-JP	PCAWG	RK029_B	DO45129	RK029	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98975	LIRI-JP	PCAWG	RK029_C	DO45129	RK029	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			90	
+SP98969	LIRI-JP	PCAWG	RK026_B01	DO45125	RK026	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98967	LIRI-JP	PCAWG	RK026_C01	DO45125	RK026	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP135227	LIRI-JP	PCAWG	RK026_L01	DO45125	RK026	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98971	LIRI-JP	PCAWG	RK027_B01	DO45127	RK027	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98973	LIRI-JP	PCAWG	RK027_C01	DO45127	RK027	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP191903	LIRI-JP		RK027_L01	DO45127	RK027	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP191892	LIRI-JP		RK024_L01	DO45121	RK024	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98961	LIRI-JP	PCAWG	RK024_B	DO45121	RK024	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98959	LIRI-JP	PCAWG	RK024_C	DO45121	RK024	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	3			100	
+SP135225	LIRI-JP	PCAWG	RK025_L01	DO45123	RK025	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98963	LIRI-JP	PCAWG	RK025_B	DO45123	RK025	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98965	LIRI-JP	PCAWG	RK025_C	DO45123	RK025	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I-II		TNM by LCSGJ	2			100	
+SP98957	LIRI-JP	PCAWG	RK023_B	DO45119	RK023	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98955	LIRI-JP	PCAWG	RK023_C	DO45119	RK023	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	3			90	
+SP135223	LIRI-JP	PCAWG	RK023_L01	DO45119	RK023	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98949	LIRI-JP	PCAWG	RK021_C01	DO45115	RK021	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	2			80	
+SP191868	LIRI-JP		RK021_L01	DO45115	RK021	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98947	LIRI-JP	PCAWG	RK021_B01	DO45115	RK021	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98951	LIRI-JP	PCAWG	RK022_B01	DO45117	RK022	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98953	LIRI-JP	PCAWG	RK022_C01	DO45117	RK022	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	2			90	
+SP191879	LIRI-JP		RK022_L01	DO45117	RK022	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98941	LIRI-JP	PCAWG	RK019_C	DO45111	RK019	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I-II		TNM by LCSGJ	1			100	
+SP135219	LIRI-JP	PCAWG	RK019_L01	DO45111	RK019	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98939	LIRI-JP	PCAWG	RK019_B	DO45111	RK019	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP135221	LIRI-JP	PCAWG	RK020_L01	DO45113	RK020	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98943	LIRI-JP	PCAWG	RK020_B01	DO45113	RK020	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98945	LIRI-JP	PCAWG	RK020_C01	DO45113	RK020	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	3			80	
+SP98931	LIRI-JP	PCAWG	RK016_B01	DO45107	RK016	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98933	LIRI-JP	PCAWG	RK016_C01	DO45107	RK016	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	2			80	
+SP191843	LIRI-JP		RK016_L01	DO45107	RK016	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98937	LIRI-JP	PCAWG	RK018_C01	DO45109	RK018	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP191850	LIRI-JP		RK018_L01	DO45109	RK018	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98935	LIRI-JP	PCAWG	RK018_B01	DO45109	RK018	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98925	LIRI-JP	PCAWG	RK014_C01	DO45103	RK014	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			30	
+SP135218	LIRI-JP	PCAWG	RK014_L01	DO45103	RK014	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98923	LIRI-JP	PCAWG	RK014_B01	DO45103	RK014	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98927	LIRI-JP	PCAWG	RK015_C	DO45105	RK015	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			100	
+SP98929	LIRI-JP	PCAWG	RK015_B	DO45105	RK015	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98919	LIRI-JP	PCAWG	RK012_B01	DO45101	RK012	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98921	LIRI-JP	PCAWG	RK012_C01	DO45101	RK012	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	2			80	
+SP135216	LIRI-JP	PCAWG	RK012_L01	DO45101	RK012	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99119	LIRI-JP	PCAWG	RK080_B01	DO45199	RK080	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99121	LIRI-JP	PCAWG	RK080_C01	DO45199	RK080	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP192454	LIRI-JP		RK080_L01	DO45199	RK080	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99111	LIRI-JP	PCAWG	RK073_B01	DO45195	RK073	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99113	LIRI-JP	PCAWG	RK073_C01	DO45195	RK073	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	1			100	
+SP135269	LIRI-JP	PCAWG	RK073_L01	DO45195	RK073	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP135279	LIRI-JP	PCAWG	RK079_L01	DO45197	RK079	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99115	LIRI-JP	PCAWG	RK079_B01	DO45197	RK079	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99117	LIRI-JP	PCAWG	RK079_C01	DO45197	RK079	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	2			90	
+SP192434	LIRI-JP		RK068_L01	DO45187	RK068	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99095	LIRI-JP	PCAWG	RK068_B	DO45187	RK068	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99097	LIRI-JP	PCAWG	RK068_C	DO45187	RK068	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			100	
+SP99101	LIRI-JP	PCAWG	RK069_C01	DO45189	RK069	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8180/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP135263	LIRI-JP	PCAWG	RK069_L01	DO45189	RK069	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99099	LIRI-JP	PCAWG	RK069_B01	DO45189	RK069	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99087	LIRI-JP	PCAWG	RK066_B01	DO45183	RK066	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99089	LIRI-JP	PCAWG	RK066_C01	DO45183	RK066	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			90	
+SP192427	LIRI-JP		RK066_L01	DO45183	RK066	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99091	LIRI-JP	PCAWG	RK067_B01	DO45185	RK067	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99093	LIRI-JP	PCAWG	RK067_C01	DO45185	RK067	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8180/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP192438	LIRI-JP		RK071_L01	DO45191	RK071	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99103	LIRI-JP	PCAWG	RK071_B01	DO45191	RK071	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99105	LIRI-JP	PCAWG	RK071_C01	DO45191	RK071	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP99109	LIRI-JP	PCAWG	RK072_C01	DO45193	RK072	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	4			100	
+SP192439	LIRI-JP		RK072_L01	DO45193	RK072	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99107	LIRI-JP	PCAWG	RK072_B01	DO45193	RK072	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99075	LIRI-JP	PCAWG	RK063_B	DO45177	RK063	Normal - blood derived		90	other therapy	TACE+PEIT	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99077	LIRI-JP	PCAWG	RK063_C	DO45177	RK063	Primary tumour - solid tissue		90	other therapy	TACE+PEIT	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			80	
+SP135261	LIRI-JP	PCAWG	RK063_L01	DO45177	RK063	Normal - solid tissue		90	other therapy	TACE+PEIT	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192422	LIRI-JP		RK064_L01	DO45179	RK064	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99079	LIRI-JP	PCAWG	RK064_B01	DO45179	RK064	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99081	LIRI-JP	PCAWG	RK064_C01	DO45179	RK064	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP99069	LIRI-JP	PCAWG	RK061_C01	DO45173	RK061	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	3			90	
+SP192419	LIRI-JP		RK295_L01	DO45173	RK061	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP135259	LIRI-JP	PCAWG	RK061_L01	DO45173	RK061	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99067	LIRI-JP	PCAWG	RK061_B01	DO45173	RK061	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192418	LIRI-JP		RK295_C01	DO45173	RK061	Metastatic tumour - additional metastatic		30	no treatment	"surgical resection, sorafenib"	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8130/3	Edmondson	III		TNM by LCSGJ	3			90	
+SP99071	LIRI-JP	PCAWG	RK062_B01	DO45175	RK062	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99073	LIRI-JP	PCAWG	RK062_C01	DO45175	RK062	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	2			80	
+SP192420	LIRI-JP		RK062_L01	DO45175	RK062	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99085	LIRI-JP	PCAWG	RK065_C01	DO45181	RK065	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP192425	LIRI-JP		RK065_L01	DO45181	RK065	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99083	LIRI-JP	PCAWG	RK065_B01	DO45181	RK065	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192261	LIRI-JP		RK039_L01	DO227643	RK039	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP191990	LIRI-JP		RK039_C01	DO227643	RK039	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8130/3	Edmondson	II-III		TNM by LCSGJ	2			70	
+SP99335	LIRI-JP	PCAWG	RK312_B01	DO45305	RK312	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99337	LIRI-JP	PCAWG	RK312_C01	DO45305	RK312	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	4			100	
+SP135396	LIRI-JP	PCAWG	RK312_L01	DO45305	RK312	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99339	LIRI-JP	PCAWG	RK316_B01	DO45307	RK316	Normal - blood derived		30	chemotherapy		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99341	LIRI-JP	PCAWG	RK316_C01	DO45307	RK316	Primary tumour - solid tissue		30	chemotherapy		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	4			50	
+SP135401	LIRI-JP	PCAWG	RK316_L01	DO45307	RK316	Normal - solid tissue		30	chemotherapy		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99329	LIRI-JP	PCAWG	RK309_C01	DO45301	RK309	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	2			60	
+SP99327	LIRI-JP	PCAWG	RK309_L01	DO45301	RK309	Normal - tissue adjacent to primary		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99331	LIRI-JP	PCAWG	RK310_L01	DO45303	RK310	Normal - tissue adjacent to primary		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99333	LIRI-JP	PCAWG	RK310_C01	DO45303	RK310	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	3			70	
+SP99343	LIRI-JP	PCAWG	RK317_B01	DO45309	RK317	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP99345	LIRI-JP	PCAWG	RK317_C01	DO45309	RK317	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8160/3	Edmondson			TNM by LCSGJ	3			10	
+SP192708	LIRI-JP		RK255_L01	DO227801	RK255	Normal - solid tissue		30	no treatment	-88	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192707	LIRI-JP		RK255_C01	DO227801	RK255	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8130/3	Edmondson	II		TNM by LCSGJ	1			100	
+SP107153	LIRI-JP	PCAWG	RK220_B01	DO48761	RK220	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107155	LIRI-JP	PCAWG	RK220_C01	DO48761	RK220	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	2			100	
+SP192690	LIRI-JP		RK220_L01	DO48761	RK220	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107151	LIRI-JP	PCAWG	RK219_B01	DO48760	RK219	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107152	LIRI-JP	PCAWG	RK219_C01	DO48760	RK219	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	2			100	
+SP107148	LIRI-JP	PCAWG	RK217_B01	DO48759	RK217	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107150	LIRI-JP	PCAWG	RK217_C01	DO48759	RK217	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	3			100	
+SP192689	LIRI-JP		RK217_L01	DO48759	RK217	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107146	LIRI-JP	PCAWG	RK216_C01	DO48757	RK216	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP192688	LIRI-JP		RK216_L01	DO48757	RK216	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107144	LIRI-JP	PCAWG	RK216_B01	DO48757	RK216	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107134	LIRI-JP	PCAWG	RK214_B01	DO48751	RK214	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107136	LIRI-JP	PCAWG	RK214_C01	DO48751	RK214	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	2			70	
+SP192687	LIRI-JP		RK214_L01	DO48751	RK214	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107139	LIRI-JP	PCAWG	RK215_B01	DO48753	RK215	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107141	LIRI-JP	PCAWG	RK215_C01	DO48753	RK215	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	3			100	
+SP107131	LIRI-JP	PCAWG	RK213_B01	DO48747	RK213	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107132	LIRI-JP	PCAWG	RK213_C01	DO48747	RK213	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	3			70	
+SP192686	LIRI-JP		RK213_L01	DO48747	RK213	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107129	LIRI-JP	PCAWG	RK212_C01	DO48746	RK212	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	3			90	
+SP192685	LIRI-JP		RK212_L01	DO48746	RK212	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107126	LIRI-JP	PCAWG	RK212_B01	DO48746	RK212	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107117	LIRI-JP	PCAWG	RK207_B01	DO48741	RK207	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107119	LIRI-JP	PCAWG	RK207_C01	DO48741	RK207	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP192682	LIRI-JP		RK207_L01	DO48741	RK207	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192683	LIRI-JP		RK211_L01	DO48743	RK211	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107122	LIRI-JP	PCAWG	RK211_B01	DO48743	RK211	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107123	LIRI-JP	PCAWG	RK211_C01	DO48743	RK211	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP192684	LIRI-JP		RK273_C01	DO48743	RK211	Metastatic tumour - additional metastatic		30	no treatment	surgical resection	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8130/3	Edmondson	II		TNM by LCSGJ	1			100	
+SP107120	LIRI-JP	PCAWG	RK210_B01	DO48742	RK210	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107121	LIRI-JP	PCAWG	RK210_C01	DO48742	RK210	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	2			100	
+SP107112	LIRI-JP	PCAWG	RK206_B01	DO48738	RK206	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107115	LIRI-JP	PCAWG	RK206_C01	DO48738	RK206	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	4			80	
+SP107111	LIRI-JP	PCAWG	RK205_C01	DO48737	RK205	Primary tumour - solid tissue		30	surgery		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	1			100	
+SP192681	LIRI-JP		RK205_L01	DO48737	RK205	Normal - solid tissue		30	surgery		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107110	LIRI-JP	PCAWG	RK205_B01	DO48737	RK205	Normal - blood derived		30	surgery		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107104	LIRI-JP	PCAWG	RK201_C01	DO48733	RK201	Primary tumour - solid tissue		30	surgery		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP192679	LIRI-JP		RK201_L01	DO48733	RK201	Normal - solid tissue		30	surgery		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107102	LIRI-JP	PCAWG	RK201_B01	DO48733	RK201	Normal - blood derived		30	surgery		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107107	LIRI-JP	PCAWG	RK202_B01	DO48736	RK202	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107109	LIRI-JP	PCAWG	RK202_C01	DO48736	RK202	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			100	
+SP192680	LIRI-JP		RK202_L01	DO48736	RK202	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192677	LIRI-JP		RK296_C01	DO48730	RK199	Metastatic tumour - metastasis to distant location		30	no treatment	"surgical resection, sorafenib TACE"	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8130/3	Edmondson			TNM by LCSGJ	4			90	
+SP107096	LIRI-JP	PCAWG	RK199_B01	DO48730	RK199	Normal - blood derived		120	chemotherapy	sorafenib	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107097	LIRI-JP	PCAWG	RK199_C01	DO48730	RK199	Primary tumour - solid tissue		120	chemotherapy	sorafenib	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			75	
+SP192676	LIRI-JP		RK199_L01	DO48730	RK199	Normal - solid tissue		120	chemotherapy	sorafenib	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192678	LIRI-JP		RK200_L01	DO48732	RK200	Normal - solid tissue		30	surgery		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107099	LIRI-JP	PCAWG	RK200_B01	DO48732	RK200	Normal - blood derived		30	surgery		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107101	LIRI-JP	PCAWG	RK200_C01	DO48732	RK200	Primary tumour - solid tissue		30	surgery		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP107091	LIRI-JP	PCAWG	RK197_C01	DO48727	RK197	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP192674	LIRI-JP		RK197_L01	DO48727	RK197	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107089	LIRI-JP	PCAWG	RK197_B01	DO48727	RK197	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107092	LIRI-JP	PCAWG	RK198_B01	DO48728	RK198	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107094	LIRI-JP	PCAWG	RK198_C01	DO48728	RK198	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	2			100	
+SP192675	LIRI-JP		RK198_L01	DO48728	RK198	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107082	LIRI-JP	PCAWG	RK195_B01	DO48723	RK195	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107084	LIRI-JP	PCAWG	RK195_C01	DO48723	RK195	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	1			100	
+SP192672	LIRI-JP		RK195_L01	DO48723	RK195	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192673	LIRI-JP		RK196_L01	DO48725	RK196	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107086	LIRI-JP	PCAWG	RK196_B01	DO48725	RK196	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107088	LIRI-JP	PCAWG	RK196_C01	DO48725	RK196	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			100	
+SP107080	LIRI-JP	PCAWG	RK193_C01	DO48721	RK193	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			100	
+SP192671	LIRI-JP		RK193_L01	DO48721	RK193	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107079	LIRI-JP	PCAWG	RK193_B01	DO48721	RK193	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107077	LIRI-JP	PCAWG	RK191_B01	DO48720	RK191	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107078	LIRI-JP	PCAWG	RK191_C01	DO48720	RK191	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	2			80	
+SP192670	LIRI-JP		RK191_L01	DO48720	RK191	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107070	LIRI-JP	PCAWG	RK187_B01	DO48716	RK187	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107071	LIRI-JP	PCAWG	RK187_C01	DO48716	RK187	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	2			100	
+SP192666	LIRI-JP		RK187_L01	DO48716	RK187	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192667	LIRI-JP		RK339_C01	DO48716	RK187	Metastatic tumour - additional metastatic		30	no treatment	surgical resection	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8130/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP107068	LIRI-JP	PCAWG	RK186_C01	DO48715	RK186	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP192665	LIRI-JP		RK186_L01	DO48715	RK186	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107067	LIRI-JP	PCAWG	RK186_B01	DO48715	RK186	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107072	LIRI-JP	PCAWG	RK188_B01	DO48717	RK188	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107073	LIRI-JP	PCAWG	RK188_C01	DO48717	RK188	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	4			100	
+SP192668	LIRI-JP		RK188_L01	DO48717	RK188	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192664	LIRI-JP		RK185_L01	DO48712	RK185	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107062	LIRI-JP	PCAWG	RK185_B01	DO48712	RK185	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107063	LIRI-JP	PCAWG	RK185_C01	DO48712	RK185	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP107075	LIRI-JP	PCAWG	RK190_B01	DO48719	RK190	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107076	LIRI-JP	PCAWG	RK190_C01	DO48719	RK190	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	2			80	
+SP192669	LIRI-JP		RK190_L01	DO48719	RK190	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192662	LIRI-JP		RK178_L01	DO48704	RK178	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107051	LIRI-JP	PCAWG	RK178_B01	DO48704	RK178	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107052	LIRI-JP	PCAWG	RK178_C01	DO48704	RK178	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	3			90	
+SP192663	LIRI-JP		RK181_L01	DO48706	RK181	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107054	LIRI-JP	PCAWG	RK181_B01	DO48706	RK181	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107056	LIRI-JP	PCAWG	RK181_C01	DO48706	RK181	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			90	
+SP107047	LIRI-JP	PCAWG	RK175_C01	DO48701	RK175	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	2			95	
+SP192659	LIRI-JP		RK175_L01	DO48701	RK175	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107045	LIRI-JP	PCAWG	RK175_B01	DO48701	RK175	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107044	LIRI-JP	PCAWG	RK171_C01	DO48700	RK171	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP192655	LIRI-JP		RK171_L01	DO48700	RK171	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107043	LIRI-JP	PCAWG	RK171_B01	DO48700	RK171	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107049	LIRI-JP	PCAWG	RK176_B01	DO48703	RK176	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107050	LIRI-JP	PCAWG	RK176_C01	DO48703	RK176	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-I		TNM by LCSGJ	2			95	
+SP107058	LIRI-JP	PCAWG	RK183_B01	DO48709	RK183	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107060	LIRI-JP	PCAWG	RK183_C01	DO48709	RK183	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			100	
+SP107006	LIRI-JP	PCAWG	RK081_B01	DO48679	RK081	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107007	LIRI-JP	PCAWG	RK081_C01	DO48679	RK081	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			90	
+SP192457	LIRI-JP		RK081_L01	DO48679	RK081	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP106996	LIRI-JP	PCAWG	RK070_B01	DO48674	RK070	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP106998	LIRI-JP	PCAWG	RK070_C01	DO48674	RK070	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP192437	LIRI-JP		RK070_L01	DO48674	RK070	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107001	LIRI-JP	PCAWG	RK077_B01	DO48677	RK077	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107004	LIRI-JP	PCAWG	RK077_C01	DO48677	RK077	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP192448	LIRI-JP		RK077_L01	DO48677	RK077	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192450	LIRI-JP		RK328_C01	DO48677	RK077	Metastatic tumour - additional metastatic		30	no treatment	surgical resection	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8130/3	Edmondson	II		TNM by LCSGJ	1			100	
+SP106992	LIRI-JP	PCAWG	RK059_B01	DO48672	RK059	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP106993	LIRI-JP	PCAWG	RK059_C01	DO48672	RK059	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP192415	LIRI-JP		RK059_L01	DO48672	RK059	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192640	LIRI-JP		RK163_L01	DO48697	RK163	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107039	LIRI-JP	PCAWG	RK163_B01	DO48697	RK163	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107041	LIRI-JP	PCAWG	RK163_C01	DO48697	RK163	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	2			95	
+SP107031	LIRI-JP	PCAWG	RK149_B01	DO48693	RK149	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107032	LIRI-JP	PCAWG	RK149_C01	DO48693	RK149	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			80	
+SP107029	LIRI-JP	PCAWG	RK144_B01	DO48692	RK144	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107030	LIRI-JP	PCAWG	RK144_C01	DO48692	RK144	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP107035	LIRI-JP	PCAWG	RK162_B01	DO48695	RK162	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107037	LIRI-JP	PCAWG	RK162_C01	DO48695	RK162	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-I		TNM by LCSGJ	2			90	
+SP192636	LIRI-JP		RK162_L01	DO48695	RK162	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107033	LIRI-JP	PCAWG	RK154_B01	DO48694	RK154	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107034	LIRI-JP	PCAWG	RK154_C01	DO48694	RK154	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-I		TNM by LCSGJ	2			100	
+SP107024	LIRI-JP	PCAWG	RK136_B01	DO48689	RK136	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107025	LIRI-JP	PCAWG	RK136_C01	DO48689	RK136	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP107018	LIRI-JP	PCAWG	RK122_B01	DO48686	RK122	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107019	LIRI-JP	PCAWG	RK122_C01	DO48686	RK122	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			90	
+SP107020	LIRI-JP	PCAWG	RK123_B01	DO48687	RK123	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107023	LIRI-JP	PCAWG	RK123_C01	DO48687	RK123	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP107011	LIRI-JP	PCAWG	RK119_B01	DO48682	RK119	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107012	LIRI-JP	PCAWG	RK119_C01	DO48682	RK119	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	3			40	
+SP192545	LIRI-JP		RK119_L01	DO48682	RK119	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107010	LIRI-JP	PCAWG	RK111_C01	DO48681	RK111	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP107009	LIRI-JP	PCAWG	RK111_L01	DO48681	RK111	Normal - tissue adjacent to primary		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107016	LIRI-JP	PCAWG	RK121_B01	DO48684	RK121	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP107017	LIRI-JP	PCAWG	RK121_C01	DO48684	RK121	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	3			100	
+SP107028	LIRI-JP	PCAWG	RK139_C01	DO48691	RK139	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			90	
+SP107027	LIRI-JP	PCAWG	RK139_B01	DO48691	RK139	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP135214	LIRI-JP	PCAWG	RK010_L01	DO45099	RK010	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98917	LIRI-JP	PCAWG	RK010_B	DO45099	RK010	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98915	LIRI-JP	PCAWG	RK010_C	DO45099	RK010	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP98903	LIRI-JP	PCAWG	RK005_B	DO45095	RK005	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98904	LIRI-JP	PCAWG	RK005_C	DO45095	RK005	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			80	
+SP191761	LIRI-JP		RK005_L01	DO45095	RK005	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP191784	LIRI-JP		RK006_L01	DO45096	RK006	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98909	LIRI-JP	PCAWG	RK006_C1	DO45096	RK006	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			80	
+SP98905	LIRI-JP	PCAWG	RK006_B	DO45096	RK006	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98907	LIRI-JP	PCAWG	RK006_C2	DO45096	RK006	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			80	
+SP98913	LIRI-JP	PCAWG	RK007_C01	DO45097	RK007	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	3			90	
+SP135212	LIRI-JP	PCAWG	RK007_L01	DO45097	RK007	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP191790	LIRI-JP		RK294_C01	DO45097	RK007	Metastatic tumour - additional metastatic		30	no treatment	surgical resection	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8130/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP98911	LIRI-JP	PCAWG	RK007_B01	DO45097	RK007	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98895	LIRI-JP	PCAWG	RK001_B01	DO45091	RK001	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98896	LIRI-JP	PCAWG	RK001_C01	DO45091	RK001	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			80	
+SP135203	LIRI-JP	PCAWG	RK001_L01	DO45091	RK001	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP135206	LIRI-JP	PCAWG	RK002_L01	DO45092	RK002	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98897	LIRI-JP	PCAWG	RK002_B	DO45092	RK002	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98898	LIRI-JP	PCAWG	RK002_C	DO45092	RK002	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	4			80	
+SP135208	LIRI-JP	PCAWG	RK003_L01	DO45093	RK003	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98899	LIRI-JP	PCAWG	RK003_B	DO45093	RK003	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98900	LIRI-JP	PCAWG	RK003_C	DO45093	RK003	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	2			90	
+SP98901	LIRI-JP	PCAWG	RK004_B01	DO45094	RK004	Normal - blood derived		90	other therapy	"TACE, RFA"	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP98902	LIRI-JP	PCAWG	RK004_C01	DO45094	RK004	Primary tumour - solid tissue		90	other therapy	"TACE, RFA"	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I-II		TNM by LCSGJ	3			95	
+SP135210	LIRI-JP	PCAWG	RK004_L01	DO45094	RK004	Normal - solid tissue		90	other therapy	"TACE, RFA"	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50184	LIRI-JP	PCAWG	RK172_B01	DO23552	RK172	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50185	LIRI-JP	PCAWG	RK172_C01	DO23552	RK172	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			100	
+SP192657	LIRI-JP		RK172_L01	DO23552	RK172	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50182	LIRI-JP	PCAWG	RK169_B01	DO23551	RK169	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50183	LIRI-JP	PCAWG	RK169_C01	DO23551	RK169	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	3			60	
+SP192652	LIRI-JP		RK169_L01	DO23551	RK169	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50181	LIRI-JP	PCAWG	RK164_C01	DO23550	RK164	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	1			100	
+SP192644	LIRI-JP		RK164_L01	DO23550	RK164	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50180	LIRI-JP	PCAWG	RK164_B01	DO23550	RK164	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50158	LIRI-JP	PCAWG	RK134_B01	DO23539	RK134	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50159	LIRI-JP	PCAWG	RK134_C01	DO23539	RK134	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			100	
+SP50157	LIRI-JP	PCAWG	RK131_C01	DO23538	RK131	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	2			100	
+SP192577	LIRI-JP		RK131_L01	DO23538	RK131	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50156	LIRI-JP	PCAWG	RK131_B01	DO23538	RK131	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50155	LIRI-JP	PCAWG	RK128_C01	DO23537	RK128	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	2			80	
+SP192562	LIRI-JP		RK128_L01	DO23537	RK128	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50154	LIRI-JP	PCAWG	RK128_B01	DO23537	RK128	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50152	LIRI-JP	PCAWG	RK125_B01	DO23536	RK125	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50153	LIRI-JP	PCAWG	RK125_C01	DO23536	RK125	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	2			90	
+SP192556	LIRI-JP		RK125_L01	DO23536	RK125	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50151	LIRI-JP	PCAWG	RK124_C01	DO23535	RK124	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	1			100	
+SP192555	LIRI-JP		RK124_L01	DO23535	RK124	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50150	LIRI-JP	PCAWG	RK124_B01	DO23535	RK124	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192551	LIRI-JP		RK292_C01	DO23534	RK120	Metastatic tumour - additional metastatic		30	no treatment	surgical resection	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8130/3	Edmondson	II-III		TNM by LCSGJ	4			100	
+SP50149	LIRI-JP	PCAWG	RK120_C01	DO23534	RK120	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	2			95	
+SP192548	LIRI-JP		RK120_L01	DO23534	RK120	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50148	LIRI-JP	PCAWG	RK120_B01	DO23534	RK120	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192549	LIRI-JP		RK291_C01	DO23534	RK120	Metastatic tumour - additional metastatic		30	no treatment	surgical resection	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8130/3	Edmondson	II		TNM by LCSGJ	4			100	
+SP50146	LIRI-JP	PCAWG	RK118_B01	DO23533	RK118	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50147	LIRI-JP	PCAWG	RK118_C01	DO23533	RK118	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	2			100	
+SP192543	LIRI-JP		RK118_L01	DO23533	RK118	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50145	LIRI-JP	PCAWG	RK117_C01	DO23532	RK117	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I-II		TNM by LCSGJ	1			90	
+SP192541	LIRI-JP		RK117_L01	DO23532	RK117	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50144	LIRI-JP	PCAWG	RK117_B01	DO23532	RK117	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192537	LIRI-JP		RK116_L01	DO23531	RK116	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50142	LIRI-JP	PCAWG	RK116_B01	DO23531	RK116	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50143	LIRI-JP	PCAWG	RK116_C01	DO23531	RK116	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP50141	LIRI-JP	PCAWG	RK113_C01	DO23530	RK113	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	4			100	
+SP50140	LIRI-JP	PCAWG	RK113_L01	DO23530	RK113	Normal - tissue adjacent to primary		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50178	LIRI-JP	PCAWG	RK156_B01	DO23549	RK156	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50179	LIRI-JP	PCAWG	RK156_C01	DO23549	RK156	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			95	
+SP50176	LIRI-JP	PCAWG	RK155_B01	DO23548	RK155	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50177	LIRI-JP	PCAWG	RK155_C01	DO23548	RK155	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	1			100	
+SP192627	LIRI-JP		RK155_L01	DO23548	RK155	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50175	LIRI-JP	PCAWG	RK153_C01	DO23547	RK153	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			90	
+SP50174	LIRI-JP	PCAWG	RK153_B01	DO23547	RK153	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50172	LIRI-JP	PCAWG	RK152_B01	DO23546	RK152	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50173	LIRI-JP	PCAWG	RK152_C01	DO23546	RK152	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I-II		TNM by LCSGJ	2			95	
+SP50170	LIRI-JP	PCAWG	RK151_B01	DO23545	RK151	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50171	LIRI-JP	PCAWG	RK151_C01	DO23545	RK151	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			95	
+SP192619	LIRI-JP		RK151_L01	DO23545	RK151	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50168	LIRI-JP	PCAWG	RK150_B01	DO23544	RK150	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50169	LIRI-JP	PCAWG	RK150_C01	DO23544	RK150	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			40	
+SP192605	LIRI-JP		RK145_L01	DO23543	RK145	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP112051	LIRI-JP	PCAWG	RK281_C01	DO23543	RK145	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			95	
+SP50166	LIRI-JP	PCAWG	RK145_B01	DO23543	RK145	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50167	LIRI-JP	PCAWG	RK145_C01	DO23543	RK145	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			70	
+SP50164	LIRI-JP	PCAWG	RK143_B01	DO23542	RK143	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50165	LIRI-JP	PCAWG	RK143_C01	DO23542	RK143	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			100	
+SP192603	LIRI-JP		RK143_L01	DO23542	RK143	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50162	LIRI-JP	PCAWG	RK140_B01	DO23541	RK140	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50163	LIRI-JP	PCAWG	RK140_C01	DO23541	RK140	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP192593	LIRI-JP		RK140_L01	DO23541	RK140	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50161	LIRI-JP	PCAWG	RK135_C01	DO23540	RK135	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			100	
+SP50160	LIRI-JP	PCAWG	RK135_B01	DO23540	RK135	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP135272	LIRI-JP	PCAWG	RK075_L01	DO23517	RK075	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50114	LIRI-JP	PCAWG	RK075_B01	DO23517	RK075	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50115	LIRI-JP	PCAWG	RK075_C01	DO23517	RK075	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	I		TNM by LCSGJ	2			100	
+SP50112	LIRI-JP	PCAWG	RK074_B01	DO23516	RK074	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50113	LIRI-JP	PCAWG	RK074_C01	DO23516	RK074	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			80	
+SP192442	LIRI-JP		RK074_L01	DO23516	RK074	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192417	LIRI-JP		RK060_L01	DO23515	RK060	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50110	LIRI-JP	PCAWG	RK060_B01	DO23515	RK060	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50111	LIRI-JP	PCAWG	RK060_C01	DO23515	RK060	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	2			100	
+SP192411	LIRI-JP		RK057_L01	DO23514	RK057	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50108	LIRI-JP	PCAWG	RK057_B01	DO23514	RK057	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50109	LIRI-JP	PCAWG	RK057_C01	DO23514	RK057	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP192405	LIRI-JP		RK053_L01	DO23513	RK053	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50106	LIRI-JP	PCAWG	RK053_B01	DO23513	RK053	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50107	LIRI-JP	PCAWG	RK053_C01	DO23513	RK053	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			60	
+SP50105	LIRI-JP	PCAWG	RK043_C01	DO23512	RK043	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			100	
+SP192390	LIRI-JP		RK043_L01	DO23512	RK043	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50104	LIRI-JP	PCAWG	RK043_B01	DO23512	RK043	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50102	LIRI-JP	PCAWG	RK040_B01	DO23511	RK040	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50103	LIRI-JP	PCAWG	RK040_C01	DO23511	RK040	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	3			60	
+SP192263	LIRI-JP		RK040_L01	DO23511	RK040	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50100	LIRI-JP	PCAWG	RK038_B01	DO23510	RK038	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50101	LIRI-JP	PCAWG	RK038_C01	DO23510	RK038	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	2			100	
+SP191982	LIRI-JP		RK038_L01	DO23510	RK038	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50118	LIRI-JP	PCAWG	RK085_B01	DO23519	RK085	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50119	LIRI-JP	PCAWG	RK085_C01	DO23519	RK085	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	III		TNM by LCSGJ	3			70	
+SP192464	LIRI-JP		RK085_L01	DO23519	RK085	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50117	LIRI-JP	PCAWG	RK076_C01	DO23518	RK076	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			100	
+SP192445	LIRI-JP		RK076_L01	DO23518	RK076	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50116	LIRI-JP	PCAWG	RK076_B01	DO23518	RK076	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192511	LIRI-JP		RK105_L01	DO23528	RK105	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50136	LIRI-JP	PCAWG	RK105_B01	DO23528	RK105	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50137	LIRI-JP	PCAWG	RK105_C01	DO23528	RK105	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			80	
+SP50134	LIRI-JP	PCAWG	RK104_B01	DO23527	RK104	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50135	LIRI-JP	PCAWG	RK104_C01	DO23527	RK104	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			100	
+SP192507	LIRI-JP		RK104_L01	DO23527	RK104	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50133	LIRI-JP	PCAWG	RK102_C01	DO23526	RK102	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	3			80	
+SP192498	LIRI-JP		RK102_L01	DO23526	RK102	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50132	LIRI-JP	PCAWG	RK102_B01	DO23526	RK102	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192495	LIRI-JP		RK101_L01	DO23525	RK101	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50130	LIRI-JP	PCAWG	RK101_B01	DO23525	RK101	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50131	LIRI-JP	PCAWG	RK101_C01	DO23525	RK101	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II-III		TNM by LCSGJ	4			70	
+SP50128	LIRI-JP	PCAWG	RK095_B01	DO23524	RK095	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50129	LIRI-JP	PCAWG	RK095_C01	DO23524	RK095	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			95	
+SP192480	LIRI-JP		RK095_L01	DO23524	RK095	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP192477	LIRI-JP		RK093_L01	DO23523	RK093	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50126	LIRI-JP	PCAWG	RK093_B01	DO23523	RK093	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50127	LIRI-JP	PCAWG	RK093_C01	DO23523	RK093	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			60	
+SP50125	LIRI-JP	PCAWG	RK090_C01	DO23522	RK090	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	1			100	
+SP50124	LIRI-JP	PCAWG	RK090_B01	DO23522	RK090	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50122	LIRI-JP	PCAWG	RK088_B01	DO23521	RK088	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50123	LIRI-JP	PCAWG	RK088_C01	DO23521	RK088	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			80	
+SP50121	LIRI-JP	PCAWG	RK087_C01	DO23520	RK087	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	4			70	
+SP50120	LIRI-JP	PCAWG	RK087_B01	DO23520	RK087	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50138	LIRI-JP	PCAWG	RK110_B01	DO23529	RK110	Normal - blood derived		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50139	LIRI-JP	PCAWG	RK110_C01	DO23529	RK110	Primary tumour - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	4			100	
+SP192523	LIRI-JP		RK110_L01	DO23529	RK110	Normal - solid tissue		30	no treatment		cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50098	LIRI-JP	PCAWG	RK030_B01	DO23509	RK030	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50099	LIRI-JP	PCAWG	RK030_C01	DO23509	RK030	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	3			70	
+SP191925	LIRI-JP		RK030_L01	DO23509	RK030	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP191914	LIRI-JP		RK028_L01	DO23508	RK028	Normal - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50096	LIRI-JP	PCAWG	RK028_B01	DO23508	RK028	Normal - blood derived		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		no			yes										
+SP50097	LIRI-JP	PCAWG	RK028_C01	DO23508	RK028	Primary tumour - solid tissue		90	other therapy	TACE	cryopreservation in liquid nitrogen (dead tissue)		frozen, -70 freezer		yes			yes	8170/3	Edmondson	II		TNM by LCSGJ	2			70	
